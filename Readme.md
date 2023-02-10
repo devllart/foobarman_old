@@ -61,5 +61,5 @@ Used external golang libraries (from go.mod):
 
 ## Copyright
   <br>
-  Copyright (C) 2023 Ruslan devllartone@gmail.com <br>
+  Copyright (C) 2023 Ruslan (devllartone@gmail.com) <br>
   Cli-Game "Foobarman" is free to play. <br>
