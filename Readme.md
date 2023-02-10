@@ -41,12 +41,6 @@ Most of the information is taken from open sources. In particular from the sites
 - https://ru.inshaker.com (most cocktail recipes, their description and description of drinks)
 - https://drizly.com (Most drinks, their prices and thier descriptions)
 
-## Copyright
-<br>
-Copyright (C) 2023 Ruslan <devllartone@gmail.com> <br>
-<br>
-Cli-Game "Foobarman" is free to play. <br>
-
 ## PS 
 
 The source code is closed so as not to spoil the impression of the game, <br> 
@@ -65,3 +59,8 @@ Used external golang libraries (from go.mod):
 - github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 - golang.org/x/sys v0.0.0-20181122145206-62eef0e2fa9b
 
+## Copyright
+<br>
+  Copyright (C) 2023 Ruslan <devllartone@gmail.com> <br>
+<br>
+  Cli-Game "Foobarman" is free to play. <br>
